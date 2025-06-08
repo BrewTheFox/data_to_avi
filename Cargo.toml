@@ -1,0 +1,10 @@
+[package]
+name = "data_to_avi"
+version = "1.0.0"
+edition = "2024"
+
+[dependencies]
+base64 = "0.22.1"
+clap = { version = "4.5.39", features = ["derive"] }
+opencv = "0.94.4"
+raster = "0.2.0"
