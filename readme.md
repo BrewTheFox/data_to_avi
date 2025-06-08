@@ -38,4 +38,4 @@ Options:
 
 ### Example Output (Converted to GIF so can't be decoded)
 
-[![video](./resources/output.gif)]
+![video](./resources/output.gif)
