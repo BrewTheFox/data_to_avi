@@ -36,8 +36,6 @@ Options:
     data_to_avi -o E --path file.zip
     ```
 
-### Example Output (Converted to mp4 so can't be decoded)
+### Example Output (Converted to GIF so can't be decoded)
 
-<p align="center">
-  <video src="./resources/output.mp4" width="500px"></video>
-</p>
+[![video](./resources/output.gif)]
