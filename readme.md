@@ -36,6 +36,6 @@ Options:
     data_to_avi -o E --path file.zip
     ```
 
-### Example Output
+### Example Output (Converted to mp4 so can't be decoded)
 
-[video](./resources/output.avi)
+[video](./resources/output.mp4)
