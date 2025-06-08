@@ -38,4 +38,6 @@ Options:
 
 ### Example Output (Converted to mp4 so can't be decoded)
 
-[video](./resources/output.mp4)
+<p align="center">
+  <video src="./resources/output.mp4" width="500px"></video>
+</p>
